@@ -17,7 +17,7 @@ Frontend Mentor: [https://www.frontendmentor.io/](https://www.frontendmentor.io/
 Skills: REACT / JS / HTML / CSS
 
 
-Libarys: React / Axios / React-map-gl 
+Libraries: React / Axios / React-map-gl 
 
 
 
