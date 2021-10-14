@@ -15,6 +15,8 @@ The inspiration for this project is from
 Frontend Mentor: [https://www.frontendmentor.io/](https://www.frontendmentor.io/)
 
 Skills: REACT / JS / HTML / CSS
+
+
 Libarys: React / Axios / React-map-gl 
 
 
